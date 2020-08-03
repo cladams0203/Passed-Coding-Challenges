@@ -6,3 +6,4 @@ solutions to all of the coding challenges I have completed
     3. jumping_on_clouds
     4. repeated_string
     5. hourglass_sum_2d_array
+    6. left_rotation_array
