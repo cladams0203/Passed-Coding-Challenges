@@ -1,6 +1,7 @@
 # Passed-Coding-Challenges
 solutions to all of the coding challenges I have completed
 ## HackerRank
+### Arrays
     1. sock_merchant
     2. counting_valleys
     3. jumping_on_clouds
@@ -10,3 +11,5 @@ solutions to all of the coding challenges I have completed
     7. minimum_swaps_array
     8. array_manipulation
     9. minimum_number_bribes
+### Dictionaries and Hashmaps
+    1. 
