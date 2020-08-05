@@ -9,3 +9,4 @@ solutions to all of the coding challenges I have completed
     6. left_rotation_array
     7. minimum_swaps_array
     8. array_manipulation
+    9. minimum_number_bribes
