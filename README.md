@@ -14,3 +14,4 @@ solutions to all of the coding challenges I have completed
     5. minimum_number_bribes
 ### Dictionaries and Hashmaps
     1. two_strings
+    2. sherlock_anagrams
